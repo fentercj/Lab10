@@ -1,3 +1,5 @@
+//My partner for this lab is Jonathan Ashbrook.
+
 class Cookie{
   int numCookies;
   int temp;

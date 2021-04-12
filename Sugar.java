@@ -1,3 +1,5 @@
+//My partner for this lab is Jonathan Ashbrook.
+
 class Sugar extends Cookie{
   String shape;
   boolean isDecorated;

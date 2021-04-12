@@ -1,3 +1,5 @@
+//My partner for this lab is Jonathan Ashbrook.
+
 class Main {
   public static void main(String[] args) {
     Sugar tree = new Sugar("tree");
